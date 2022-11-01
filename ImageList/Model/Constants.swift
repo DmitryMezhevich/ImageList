@@ -15,7 +15,7 @@ struct Constants {
     
     enum Different: String {
         case nameForSerialQueue =   "AppendAndRemoveOperation"
-        case developerName =        "Dmitry Mezhevich"
+        case developerName =        "Mezhevich Dmitry Sergeyevich"
     }
     
     enum StringURL: String {
